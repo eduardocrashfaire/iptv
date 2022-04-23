@@ -107,12 +107,6 @@ http://bit.ly/3vj3H8G
 #EXTINF:-1 tvg-logo=" group-title="TV aberta",TV REDE TV
 https://bit.ly/3jNFm5q
 
-#EXTINF:-1 tvg-logo=" group-title="REDE MINAS
-http://bit.ly/3vxqRIo
-
-#EXTINF:-1 tvg-logo=" group-title="TV CARIOCA NET
-https://bit.ly/3vIAQLn
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnVtUbZByY3i1EjzgrsJRfeAYm3WWRgALtTQ&usqp=CAU group-title="TV aberta",RECORD NEWS
 https://bit.ly/3uQ8nUv
 
@@ -154,3 +148,9 @@ https://bit.ly/3OxZQ0f
 
 #EXTINF:-1 tvg-logo=" group-title="TV aberta",TOP TV
 http://bit.ly/3vYi3vJ
+
+#EXTINF:-1 tvg-logo=" group-title="TV aberta", REDE MINAS
+http://bit.ly/3vxqRIo
+
+#EXTINF:-1 tvg-logo=" group-title="TV aberta", TV CARIOCA NET
+https://bit.ly/3vIAQLn
