@@ -6,6 +6,12 @@ http://bit.ly/3L2SSh8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU0qqYl-qonZsLGKsHxJPneIGX3-V-6lKvaQ&usqp=CAU group-title="TV aberta",SBT SD
 http://bit.ly/3N6kggd
 
+#EXTINF:-1 tvg-logo=" group-title="TV aberta", REDE MINAS
+http://bit.ly/3vxqRIo
+
+#EXTINF:-1 tvg-logo=" group-title="TV aberta", TV CARIOCA NET
+https://bit.ly/3vIAQLn
+
 #EXTINF:-1 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqUXXTfqc5tmWa0sQZhjZj6kltNKzrydDhsQ&usqp=CAU" group-title="TV aberta", axn full hd
 http://bit.ly/3jlZMCn
  
@@ -148,8 +154,3 @@ https://bit.ly/3OxZQ0f
 #EXTINF:-1 tvg-logo=" group-title="TV aberta",TOP TV
 http://bit.ly/3vYi3vJ
 
-#EXTINF:-1 tvg-logo=" group-title="TV aberta", REDE MINAS
-http://bit.ly/3vxqRIo
-
-#EXTINF:-1 tvg-logo=" group-title="TV aberta", TV CARIOCA NET
-https://bit.ly/3vIAQLn
