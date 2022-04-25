@@ -14,16 +14,6 @@ https://bit.ly/3vIAQLn
 
 #EXTINF:-1 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqUXXTfqc5tmWa0sQZhjZj6kltNKzrydDhsQ&usqp=CAU" group-title="TV aberta", axn full hd
 http://bit.ly/3jlZMCn
- 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3yf_JVdNsKm0c2rz7YiehTYHPs8Ji6Q4RaA&usqp=CAU group-title="TV aberta",GLOBO SP HD
-https://bit.ly/38ce99W
- 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3yf_JVdNsKm0c2rz7YiehTYHPs8Ji6Q4RaA&usqp=CAU group-title="TV aberta",GLOBO SP SD
-https://bit.ly/3MeWE7S
-
- 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3yf_JVdNsKm0c2rz7YiehTYHPs8Ji6Q4RaA&usqp=CAU group-title="TV aberta",GLOBO SP 1080P
-https://bit.ly/3KcNozS
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk3dfVar0IwkPh7utOvHynMNuYmrKvVaM9sA&usqp=CAU group-title="TV aberta", Canal tv pampa
 http://bit.ly/3KqAdw5
@@ -37,8 +27,8 @@ https://bit.ly/3L3UMhQ
 #EXTINF:-1 tvg-logo=" group-title="TV aberta",AgroBrasil TV
 http://bit.ly/3EJVcrm
 
-#EXTINF:-1 tvg-logo=" group-title="TV aberta", TNT HD
-http://bit.ly/3Na4MYE
+#EXTINF:-1 tvg-logo=" group-title="TV aberta",
+
 
 #EXTINF:-1 tvg-logo=" group-title="TV aberta", Comedy Central HD
 http://bit.ly/3N7wBAz
