@@ -149,3 +149,6 @@ https://bit.ly/3vav2eh
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS BRASILEIROS", REDE BRASIL
 http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
+
+#EXTINF:-1 tvg-logo="group-title="TV aberta",Globo sp hd
+http://bit.ly/3Kq8OJy
