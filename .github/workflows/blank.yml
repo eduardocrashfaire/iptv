@@ -147,8 +147,8 @@ http://bit.ly/3vYi3vJ
 #EXTINF:-1 tvg-logo=https://bit.ly/3unuzE9" group-title="TV aberta",TV UFG
 https://bit.ly/3vav2eh
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS BRASILEIROS", TV ESCOLA
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS abertos", TV ESCOLA
+http://168.205.87.198:8555/live/solange/123456/137.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xFMJnfA.png" group-title="CANAIS BRASILEIROS", TV DIARIO
 http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
