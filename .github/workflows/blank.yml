@@ -152,3 +152,6 @@ http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
 
 #EXTINF:-1 tvg-logo="group-title="TV aberta",Globo sp sd
 https://bit.ly/39cTao4
+
+EXTINF:-1 tvg-logo="group-title="TV aberta",Globo são Carlos sd
+http://bit.ly/3vq2IEM
