@@ -147,8 +147,5 @@ http://bit.ly/3vYi3vJ
 #EXTINF:-1 tvg-logo="group-title="TV aberta",TV UFG
 https://bit.ly/3vav2eh
 
-#EXTINF:-1 tvg-logo=https://i.imgur.com/n8nrzTL_d.webp?maxwidth=640&shape=thumb&fidelity=medium""group-title="CANAIS abertos", TV ESCOLA
-http://168.205.87.198:8555/live/solange/123456/137.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="CANAIS BRASILEIROS", REDE BRASIL
 http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
