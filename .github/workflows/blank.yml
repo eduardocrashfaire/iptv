@@ -139,6 +139,7 @@ https://bit.ly/3kdln0o
 #EXTINF:-1 tvg-logo=https://i.imgur.com/wvpN0JL_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TV aberta",record
 http://bit.ly/3EMcTGM
 
+
 #EXTINF:-1 tvg-logo=" group-title="TV aberta",KISS TV
 
 https://bit.ly/3OxZQ0f
@@ -153,7 +154,7 @@ https://bit.ly/3vav2eh
 http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="group-title="TV aberta",Globo sp sd
-n.srv1.xyz:8880/angela33/33angela/32810
+#EXTINF:-1 tvg-logo="group-title="TV aberta",Jetsons24h
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w313564825.m3u8
 
 
