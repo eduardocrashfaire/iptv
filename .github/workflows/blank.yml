@@ -164,54 +164,9 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w313564825.m3u8
 
 
 
-#EXTINF:-1 group-title="Testador IPTV", globo com exito
-https://YouTube.com
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (OFFLINE) Br: Globo Anhanguera Goiania
-http://new-pro.tv:8080/Fernando/123321/32902
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", () Br: Globo Brasilia
-http://new-pro.tv:8080/Fernando/123321/32903
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ( Br: Globo EPTV Campinas HD
-http://new-pro.tv:8080/Fernando/123321/32905
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", () Br: Globo EPTV Sao Carlos SD
-http://new-pro.tv:8080/Fernando/123321/32906
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", () Br: Globo Minas HD
-http://new-pro.tv:8080/Fernando/123321/32908
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", () Br: Globo News HD
-http://new-pro.tv:8080/Fernando/123321/32909
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", () Br: Globo Nordeste HD
-http://new-pro.tv:8080/Fernando/123321/32911
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (o) Br: Globo Ribeirao Preto
-http://new-pro.tv:8080/Fernando/123321/32914
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (OFFLINE) Br: Globo RJ HD
-http://new-pro.tv:8080/Fernando/123321/32915
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (OFFLINE) Br: Globo RPC TV SD
-http://new-pro.tv:8080/Fernando/123321/32916
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (OFFLINE) Br: Globo Brasilia
-http://new-pro.tv:8080/Fernando/123321/32903
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (OFFLINE) Br: Globo EPTV Campinas HD
-http://new-pro.tv:8080/Fernando/123321/32905
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (OFFLINE) Br: Globo EPTV Sao Carlos SD
-http://new-pro.tv:8080/Fernando/123321/32906
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (OFFLINE) Br: Globo Minas HD
-http://new-pro.tv:8080/Fernando/123321/32908
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (OFFLINE) Br: Globo News HD
-http://new-pro.tv:8080/Fernando/123321/32909
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (OFFLINE) Br: Globo Nordeste HD
-http://new-pro.tv:8080/Fernando/123321/32911
 
