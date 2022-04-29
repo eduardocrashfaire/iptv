@@ -135,6 +135,7 @@ http://bit.ly/3xvJijv
 #EXTINF:-1 tvg-logo=" group-title="TV aberta",MURILO TV
 https://bit.ly/3kdln0o
 
+
 #EXTINF:-1 tvg-logo=https://i.imgur.com/wvpN0JL_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TV aberta",record
 http://bit.ly/3EMcTGM
 
@@ -151,5 +152,5 @@ https://bit.ly/3vav2eh
 http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
 
 #EXTINF:-1 tvg-logo="group-title="TV aberta",Globo sp sd
-http://bit.ly/3vq2IEM
+n.srv1.xyz:8880/angela33/33angela/32810
 
