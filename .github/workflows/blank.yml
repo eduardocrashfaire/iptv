@@ -46,7 +46,6 @@ http://bit.ly/3Lal4yE
 http://bit.ly/3JctDYq
 
 #EXTINF:-1 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT81ZkdzX2SxNsyABrqrbFEZVZu2ztsPLOjQQ&usqp=CAU"group-title="TV aberta",FUTURA SD
-http://bit.ly/3x3SNWL
 
 #EXTINF:-1 tvg-logo="group-title="TV aberta",88esterio
 https://bit.ly/3LDXUks
@@ -150,21 +149,6 @@ https://bit.ly/3vav2eh
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS BRASILEIROS", REDE BRASIL
 http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
-
-#EXTINF:-1 tvg-logo=" group-title="TV aberta",
-
-#EXTINF:-1 tvg-logo=" group-title="TV aberta",
-
-#EXTINF:-1 tvg-logo=" group-title="TV aberta",
-
-
-#EXTINF:-1 tvg-logo=" group-title="TV aberta",
-
-
-#EXTINF:-1 tvg-logo=" group-title="TV aberta",
-
-#EXTINF:-1 tvg-logo=" group-title="TV aberta",
-
 
 #EXTINF:-1 tvg-logo="group-title="TV aberta",Jetsons24h
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w313564825.m3u8
