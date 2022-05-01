@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU0qqYl-qonZsLGKsHxJPneIGX3-V-6lKvaQ&usqp=CAU group-title="TV aberta",SBT HD
+#EXTINF:-1 tvg-logo=https://i.imgur.com/Hc5Ymjo_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TV aberta",SBT HD
 http://bit.ly/3L2SSh8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU0qqYl-qonZsLGKsHxJPneIGX3-V-6lKvaQ&usqp=CAU group-title="TV aberta",SBT SD
+#EXTINF:-1 tvg-logo=https://i.imgur.com/Hc5Ymjo_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TV aberta",SBT SD
 http://bit.ly/3N6kggd
 
 #EXTINF:-1 tvg-logo=" group-title="TV aberta", REDE MINAS
