@@ -80,8 +80,8 @@ http://bit.ly/3xxFPAV
 #EXTINF:-1 tvg-logo=" group-title="TV kids",O Reino Infantil
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-logo=" group-title="TV aberta",
-
+#EXTINF:-1 tvg-logo=" group-title="TV aberta", Globo
+https://live.xvideosporn.me/p2p/globosp/chunks.m3u8?nimblesessionid=1478960&wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjIgMjoyMjo0NSBQTSZoYXNoX3ZhbHVlPTZmT0l2Y01iWld1RHpsdWxMOVZDeHc9PSZ2YWxpZG1pbnV0ZXM9OTA=
 
 #EXTINF:-1 tvg-logo="group-title="TV aberta",TV CAMERA
 https://bit.ly/3vbszR4
@@ -150,8 +150,10 @@ https://bit.ly/3vav2eh
 #EXTINF:-1 tvg-logo="" group-title="CANAIS BRASILEIROS", REDE BRASIL
 http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
 
+
 #EXTINF:-1 tvg-logo="group-title="TV aberta",Jetsons24h
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w313564825.m3u8
+
 
 
 
