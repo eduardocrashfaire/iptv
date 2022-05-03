@@ -153,8 +153,10 @@ http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
 
 #EXTINF:-1 tvg-logo="group-title="TV aberta",Jetsons24h
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w313564825.m3u8
+
 #EXTINF:-1 tvg-logo="group-title="TV aberta", CARTOON NETWORK
-https://bit.ly/3KK0kx3
+https://bit.ly/38J6f8r
+
 #EXTINF:-1 tvg-logo=https://i.imgur.com/fw3fJD5_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TV aberta",GLOBO SP HD
 https://bit.ly/3vAXwOI
 
