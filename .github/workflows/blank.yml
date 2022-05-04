@@ -207,9 +207,55 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="PLUTO BR", Pluto TV SÃ©ries
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=101&deviceId=5f121262a189a800076b9386&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5716&deviceLon=-46.6443&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png" group-title="PLUTO BR", Pluto TV Vida Real
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=267&deviceId=5f32d4d9ec194100070c7449&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5716&deviceLon=-46.6443&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="TVS VIA WEB", TV Japi
+https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w1184810782.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="TVS VIA WEB", Mundo TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="TVS VIA WEB", tvGALEGA
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="TVS VIA WEB", VILA TV
+https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w405092168.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="TVS VIA WEB", Chroma TV
+https://5c483b9d1019c.streamlock.net/8054/8054/chunklist_w97362854.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="TVS VIA WEB", TV PANTANAL
+https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/chunklist_w426372325.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="TVS VIA WEB", Nova TV Vale
+https://5b7f3c45ab7c2.streamlock.net/8016/8016/chunklist_w53365719.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="TVS VIA WEB", TV RP
+https://5b7f3c45ab7c2.streamlock.net/8042/8042/chunklist_w994988147_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="TVS VIA WEB", TV CAPITAL SÃ©ries
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="TVS ABERTAS=", Canal SAUDE
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS IFANTIL", Retro Cartoon SP
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w820784736.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS IFANTIL", Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS IFANTIL", KURIAKOS KIDS
+http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
 
 
 
