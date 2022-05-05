@@ -158,7 +158,7 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w313564825.m3u8
 https://bit.ly/3MUwuHX
 
 
-#EXTINF:-1 tvg-logo=https://i.imgur.com/fw3fJD5_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TV aberta",GLOBO SP HD
+#EXTINF:-1 tvg-logo="group-title="TV aberta", RÁDIO GLOBO
 https://bit.ly/3FeJ028
 #EXTINF:-1 tvg-logo="group-title="TV aberta", anúncio shopee
 https://bit.ly/3scmr9g
