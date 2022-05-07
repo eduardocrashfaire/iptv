@@ -69,9 +69,6 @@ https://bit.ly/3xfZUeL
 #EXTINF:-1 tvg-logo=https://bit.ly/3unuzE9" group-title="TV aberta",rede Brasil
 http://bit.ly/3v8klrC
 
-#EXTINF:-1 group-title="CANAL ABERTO" tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/Rede-Fonte.png",FonteTV GO
-http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo=https://i.imgur.com/ubeVvAa_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV aberta",A&E
 https://bit.ly/36EkJG8
 
@@ -139,7 +136,6 @@ https://bit.ly/3kdln0o
 http://bit.ly/3EMcTGM
 
 #EXTINF:-1 tvg-logo=" group-title="TV aberta",KISS TV
-
 https://bit.ly/3OxZQ0f
 
 #EXTINF:-1 tvg-logo=https://i.imgur.com/OWI1nKl_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV aberta",TOP TV
