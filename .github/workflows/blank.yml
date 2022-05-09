@@ -246,6 +246,7 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SBT TV Guajará (PA)
 https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
 
+
 #EXTINF:-1 group-title="CANAL ABERTO" tvg-logo="https://listaiptvbrasil.com/logo/tvfaap.png",TV Faap HD
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
@@ -259,8 +260,9 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
 #EXTINF:-1 group-title="CANAL ABERTO" tvg-logo="http://i.imgur.com/08ihVF6.jpg",TV GUARULHOS CANAL 3 HD
 http://stream19.streamingdevideo.com.br:1935/tvguarulhos/tvguarulhos/chunklist_w9194371.m3u8
-#EXTINF:-1 tvg-logo=" group-title="TV aberta",GLOBO caixas do sul RBS
-https://bit.ly/3P7BrPg
+#EXTINF:-1 tvg-logo=" group-title="TV aberta",TV ESCOLA HD
+https://bit.ly/3KX9l6d
+
 #EXTINF:-1 tvg-logo=https://i.imgur.com/z6fnSYy_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TV aberta",FX
 https://bit.ly/3vRnltQ
 #EXTINF:-1 group-title="Canais Notícias" pltv-subgroup="CNT" tvg-logo="https://uploaddeimagens.com.br/images/002/218/567/thumb/Radio_Jornal.png?1564169166", Rádio Jornal (PE)
