@@ -256,11 +256,12 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w820784736.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS IFANTIL", Anime TV SD
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS IFANTIL", KURIAKOS KIDS
 http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
 #EXTINF:-1 group-title="CANAL ABERTO" tvg-logo="http://i.imgur.com/08ihVF6.jpg",TV GUARULHOS CANAL 3 HD
 http://stream19.streamingdevideo.com.br:1935/tvguarulhos/tvguarulhos/chunklist_w9194371.m3u8
-#EXTINF:-1 tvg-logo=" group-title="TV aberta",TV ESCOLA HD
+#EXTINF:-1 tvg-logo=https://i.imgur.com/pfjTlaZ_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV aberta",TV ESCOLA SD
 https://bit.ly/3KX9l6d
 
 #EXTINF:-1 tvg-logo=https://i.imgur.com/z6fnSYy_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TV aberta",FX
