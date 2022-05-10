@@ -277,6 +277,8 @@ https://virtues.es:1936/tvmar/tvmar/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-9OoHsRZobqQ/X0EXWkNU_5I/AAAAAAAA40I/GLjj8V9eJQcPk3pRhiBOkCeUfdDjMHm9QCK8BGAsYHg/s0/2020-08-22.jpg",TV Plan | BR
 http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo=" group-title="TV aberta", TELECINE
+https://bit.ly/3yno8EJ
 
 
 #EXTINF:-1 tvg-logo=https://i.imgur.com/pfjTlaZ_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV aberta",TV ESCOLA SD
