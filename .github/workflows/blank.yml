@@ -268,7 +268,8 @@ http://stream19.streamingdevideo.com.br:1935/tvguarulhos/tvguarulhos/chunklist_w
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-DulmOzoMbM0/X0KNTFSwCrI/AAAAAAAA44k/EaA9B2IST6UTcLsKGK70zYROAh9EnPL-QCK8BGAsYHg/s0/2020-08-23.jpg",Gospel Movies Television | BR
 https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8?PlaylistM3UCL
 
-
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-Q_8E2WI7vkY/X4y1zk5rzuI/AAAAAAAA6go/rPa9ddmJcrYpMLbmiTb0nJt0SKeHzVtrwCK8BGAsYHg/s0/2020-10-18.png",TV Infor Bahia | BR
+https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/playlist-480p.m3u8?PlaylistM3UCL
 
 
 
