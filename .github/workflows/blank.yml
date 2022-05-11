@@ -5,13 +5,16 @@
 #EXTINF:-1 tvg-logo=https://i.imgur.com/Hc5Ymjo_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TV aberta",SBT HD
 https://bit.ly/3w3hb95
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SBT - TV Jornal (PE)
+#EXTINF:-1 tvg-logo=https://i.imgur.com/Hc5Ymjo_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TV aberta",SBT HD 2
+https://bit.ly/3w3hb95
+
+#EXTINF:-1 tvg-logo=https://i.imgur.com/Hc5Ymjo_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TV aberta",SBT JORNAL PE
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SBT - TV Cidade Verde - (PI)
+#EXTINF:-1 tvg-logo=https://i.imgur.com/Hc5Ymjo_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TV aberta",SBT TV CIDADE VERDE PI
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SBT TV Guajará (PA)
+#EXTINF:-1 tvg-logo=https://i.imgur.com/Hc5Ymjo_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TV aberta",SBT TV GUAJARA PA
 https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
 
 #EXTINF:-1 tvg-logo=https://i.imgur.com/Hc5Ymjo_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TV aberta",SBT SD
