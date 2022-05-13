@@ -47,11 +47,11 @@ http://bit.ly/3EJVcrm
 #EXTINF:-1 tvg-logo=" group-title="TV aberta",ANIMAL PLANT
 https://bit.ly/3yzsFnn
 
-#EXTINF:-1 FX
-https://bit.ly/3l4cAhF 
+#EXTINF:-1 tvg-logo=" group-title="TV aberta",FX
+https://bit.ly/3l4cAhF
 
-#EXTINF:-1 so novelas
-https://bit.ly/3yvZFwZ
+#EXTINF:-1 tvg-logo=" group-title="TV aberta",SO NOVELAS
+https://bit.ly/3yvZFwZ 
 
 #EXTINF:-1 tvg-logo=" group-title="TV aberta",GLOBO SP SD
 https://bit.ly/3Me2HK7
@@ -70,7 +70,6 @@ https://bit.ly/3JoR5CP
 
 #EXTINF:-1 tvg-logo=https://i.imgur.com/ZBGZsYh_d.webp?maxwidth=640&shape=thumb&fidelity=mediumgroup-title="TV musica", TOP MUSIC HD
 https://bit.ly/3Ejhpwg
-
 
 #EXTINF:-1 tvg-logo=https://i.imgur.com/jDrdLLV_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TV aberta", cine livre 2
 http://bit.ly/3JctDYq
@@ -176,20 +175,17 @@ https://bit.ly/3vav2eh
 #EXTINF:-1 tvg-logo="" group-title="CANAIS BRASILEIROS", REDE BRASIL
 http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
 
-
 #EXTINF:-1 tvg-logo="group-title="TV aberta",Jetsons24h
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w313564825.m3u8
 
 #EXTINF:-1 tvg-logo=https://i.imgur.com/RQmDf2f_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TV aberta", CARTOON NETWORK
 https://bit.ly/3MUwuHX
 
-
 #EXTINF:-1 tvg-logo=https://i.imgur.com/K5wpFSJ_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TV aberta", RÁDIO GLOBO RJ 98.1
 https://bit.ly/380FnAZ
 
 #EXTINF:-1 tvg-logo=https://i.imgur.com/g3rFXKD_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TV aberta",TV MAX
 https://bit.ly/3FmXT2w
-
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png" group-title="PLUTO BR", A vida moderna de Rocko
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=731&deviceId=5f6df6293a12e10007017396&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5716&deviceLon=-46.6443&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
@@ -811,6 +807,3 @@ https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="General", Yeeaah! (720p) [Not 24/7]
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-
-
-
