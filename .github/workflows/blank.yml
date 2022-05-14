@@ -65,8 +65,8 @@ https://bit.ly/3PnskdM
 #EXTINF:-1 tvg-logo=https://i.imgur.com/oEWJhY5_d.webp?maxwidth=640&shape=thumb&fidelity=medium""group-title="Canais | Abertos", BAND HD
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w16814077.m3u8
 
-#EXTINF:-1 tvg-logo=https://i.imgur.com/oEWJhY5_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV aberta",BAND SP 1080P
-https://bit.ly/3vzK1gY
+#EXTINF:-1 tvg-logo=https://i.imgur.com/oEWJhY5_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV aberta",BAND SP 480P
+https://bit.ly/3MeCScY
 
 #EXTINF:-1 tvg-logo=" group-title="TV aberta", Comedy Central HD
 http://bit.ly/3N7wBAz
