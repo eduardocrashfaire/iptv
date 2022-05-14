@@ -62,6 +62,9 @@ https://bit.ly/3Me2HK7
 #EXTINF:-1 tvg-logo=" group-title="TV aberta",GLOBO RJ
 https://bit.ly/3PnskdM
 
+#EXTINF:-1 tvg-logo=https://i.imgur.com/oEWJhY5_d.webp?maxwidth=640&shape=thumb&fidelity=medium""group-title="Canais | Abertos", BAND HD
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w16814077.m3u8
+
 #EXTINF:-1 tvg-logo=https://i.imgur.com/oEWJhY5_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV aberta",BAND SP 1080P
 https://bit.ly/3vzK1gY
 
@@ -819,11 +822,7 @@ https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="General", Yeeaah! (720p) [Not 24/7]
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2z8qs2Y" group-title="Canais | Abertos", BAND
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w16814077.m3u8
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2z8qs2Y" group-title="Sem Categoria", Rede Brasil RBTV
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria", Rede Brasil RBTV
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1945776133.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3y15wKw" group-title="Sem Categoria", TELECINE
