@@ -1017,3 +1017,8 @@ https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2z8qs2Y" group-title="Sem Categoria", RADIO Pop Rock Nacional
 https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
+
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-DulmOzoMbM0/X0KNTFSwCrI/AAAAAAAA44k/EaA9B2IST6UTcLsKGK70zYROAh9EnPL-QCK8BGAsYHg/s0/2020-08-23.jpg",Gospel Movies Television | BR
+https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-gREYOoyEcVE/Xpz9QKwVe1I/AAAAAAAAyBw/Xn3vQu7pPhA62v6q1YqeqkMtx_mHCYqWACK8BGAsYHg/s0/2020-04-19.png",Nuevo Tiempo | BR
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8?PlaylistM3UCL
