@@ -23,10 +23,10 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.pnggroup-title="TV aberta",SBT TV GUAJARA PA
 https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
 
-#EXTINF:-1 tvg-logo=https://i.imgur.com/Hc5Ymjo_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TV aberta",SBT SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.pnggroup-title="TV aberta",SBT SD
 http://bit.ly/3N6kggd
 
-#EXTINF:-1 tvg-logo=https://i.imgur.com/Hc5Ymjo_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TV aberta",SBTHD 2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.pnggroup-title="TV aberta",SBTHD 2
 http://bit.ly/3L2SSh8
 
 #EXTINF:-1 tvg-logo=https://i.imgur.com/PtoVeCM_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV aberta", REDE MINAS
