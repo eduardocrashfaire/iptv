@@ -57,11 +57,11 @@ http://bit.ly/3EJVcrm
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 
-#EXTINF:-1 tvg-logo=" group-title="TV aberta",ANIMAL PLANT
-https://bit.ly/3yzsFnn
+#EXTINF:-1 tvg-logo=" group-title="TV aberta",
 
-#EXTINF:-1 tvg-logo=" group-title="TV aberta",FX
-https://bit.ly/3l4cAhF
+
+#EXTINF:-1 tvg-logo=" group-title="TV aberta",
+
 
 #EXTINF:-1 tvg-logo=" group-title="TV aberta",SO NOVELAS
 https://bit.ly/3yvZFwZ 
