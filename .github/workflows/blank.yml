@@ -60,7 +60,7 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIA
 #EXTINF:-1 tvg-logo=https://i.imgur.com/oEWJhY5_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV aberta",Band minas
 https://bit.ly/3wEajPB
 
-#EXTINF:-1 tvg-logo=https://i.imgur.com/oEWJhY5_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV aberta",BAND
+#EXTINF:-1 tvg-logo=https://i.imgur.com/oEWJhY5_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV aberta",BAND FULLHD
 https://bit.ly/3lpnNK3
 
 #EXTINF:-1 tvg-logo=" group-title="TV aberta",SO NOVELAS
@@ -75,7 +75,7 @@ http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_F/856419
 #EXTINF:-1 tvg-logo=https://i.imgur.com/oEWJhY5_d.webp?maxwidth=640&shape=thumb&fidelity=medium""group-title="Canais | Abertos", BAND HD
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w16814077.m3u8
 
-#EXTINF:-1 tvg-logo=https://i.imgur.com/oEWJhY5_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV aberta",BAND SP 480P
+#EXTINF:-1 tvg-logo=https://i.imgur.com/oEWJhY5_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV aberta",BAND SP HD
 https://bit.ly/3MeCScY
 
 #EXTINF:-1 tvg-logo=" group-title="TV aberta", Comedy Central HD
