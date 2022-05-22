@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="group-title=" group-title="TV aberta",FX
-https://bit.ly/3Lwcvy0
+#EXTINF:-1 tvg-logo="group-title=" group-title="TV aberta", música ncs
+https://bit.ly/3wAGX6q
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.pnggroup-title="TV aberta",SBT HD 
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
