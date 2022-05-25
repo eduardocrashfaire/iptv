@@ -74,6 +74,12 @@ https://bit.ly/3yYl1Dj
 #EXTINF:-1 tvg-logo=" group-title="TV aberta",GLOBO SP 2
 http://bit.ly/3wHNI66
 
+#EXTINF:-1 tvg-logo=" group-title="TV aberta", FX
+http://bit.ly/3KZz6TY
+
+#EXTINF:-1 tvg-logo=" group-title="TV aberta", TNT HD
+http://bit.ly/3Na4MYE
+
 #EXTINF:-1 tvg-logo=https://i.imgur.com/oEWJhY5_d.webp?maxwidth=640&shape=thumb&fidelity=medium""group-title="Canais | Abertos", BAND HD
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w16814077.m3u8
 
