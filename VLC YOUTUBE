@@ -1,6 +1,5 @@
 #EXTM3U
 
-##########lista#### gratis trava###########
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptv.gratis/logos/imagens/qrcode.png",www.listaiptv.gratis
 https://lib.bz/video/site.mp4
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptv.gratis/logos/imagens/tvonline.png",www.tvonline.fm
