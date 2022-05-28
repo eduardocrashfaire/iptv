@@ -217,6 +217,8 @@ http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
 #EXTINF:-1 tvg-logo="group-title="TV aberta",Jetsons24h
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w313564825.m3u8
 
+#EXTINF:-1 tvg-logo="group-title="TV aberta",Band FM 9.61
+http://bit.ly/3wVSDit
 #EXTINF:-1 tvg-logo=https://i.imgur.com/wgzS9Gv_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV aberta",águia dourada fm 3.75
 https://bit.ly/3sZG9FI
 
