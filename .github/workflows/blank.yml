@@ -41,6 +41,9 @@ https://bit.ly/3vIAQLn
 #EXTINF:-1 tvg-logo=https://i.imgur.com/z9WyhDU_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV aberta", axn full hd
 http://bit.ly/3jlZMCn
 
+#EXTINF:-1 tvg-logo=https://i.imgur.com/ubeVvAa_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV aberta",A&E FULL HD
+https://bit.ly/36EkJG8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL", TV SERIES 1 AS PANTERAS
 https://stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8
 
@@ -136,9 +139,6 @@ https://bit.ly/3xfZUeL
 
 #EXTINF:-1 tvg-logo=" group-title="TV aberta",rede Brasil
 http://bit.ly/3v8klrC
-
-#EXTINF:-1 tvg-logo=https://i.imgur.com/ubeVvAa_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV aberta",A&E FULL HD
-https://bit.ly/36EkJG8
 
 #EXTINF:-1 tvg-logo=https://i.imgur.com/ubeVvAa_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV aberta",A&E HD
 http://bit.ly/3NS7xNV
