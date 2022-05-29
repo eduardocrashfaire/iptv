@@ -46,6 +46,12 @@ http://bit.ly/3KZz6TY
 #EXTINF:-1 tvg-logo=" group-title="TV aberta", TNT HD
 http://bit.ly/3Na4MYE
 
+#EXTINF:-1 tvg-logo=https://i.imgur.com/wgzS9Gv_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV aberta",águia dourada fm 3.75
+https://bit.ly/3sZG9FI
+
+#EXTINF:-1 tvg-logo=https://i.imgur.com/K5wpFSJ_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TV aberta", RÁDIO GLOBO RJ 98.1
+https://bit.ly/380FnAZ
+
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvaratu.png" group-title="Variedades", SBT TV Aratu (BA)
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
