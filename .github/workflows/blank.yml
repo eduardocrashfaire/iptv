@@ -55,6 +55,9 @@ https://bit.ly/380FnAZ
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Canal 10 (720p)
 https://edge3-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
 
+#EXTINF:-1 tvg-logo=https://i.imgur.com/ZiDgo4y_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="filme filmes", cine livre 1
+https://bit.ly/3JoR5CP
+
 #EXTINF:-1 tvg-logo=https://i.imgur.com/oEWJhY5_d.webp?maxwidth=640&shape=thumb&fidelity=medium""group-title="Canais | Abertos", BAND HD
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w16814077.m3u8
 
