@@ -62,6 +62,12 @@ https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.pnggroup-title="TV aberta",SBTHD 2
 http://bit.ly/3L2SSh8
 
+#EXTINF:-1 tvg-logo=https://i.imgur.com/oM2yqIV_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TV aberta", Canal tv pampa
+http://bit.ly/3KqAdw5
+
+#EXTINF:-1 tvg-logo=https://i.imgur.com/P58PiB9_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV aberta",CANAL RURAL HD
+http://bit.ly/3vknjJB
+
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV MT
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
