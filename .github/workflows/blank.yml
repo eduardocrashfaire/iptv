@@ -185,6 +185,12 @@ https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/clone.jpg" group-title="WebTV", Rede Clone - WebTV
 https://stmv2.samcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w89yw36.png" group-title="General", Catve FM (720p) [Not 24/7]
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4m7Iazm.png" group-title="General", Catve Master TV (720p) [Not 24/7]
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-logotipo_da_tv_brasil.png" group-title="Pública", TV Brasil  - Joinville
 https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
 
