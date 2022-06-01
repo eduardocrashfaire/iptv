@@ -329,9 +329,6 @@ https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bonstempos.png" group-title="WebTV", Bons Tempos TV - WebTV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvvnatal.jpg" group-title="Variedades", TV Natal
-http://tvnatal.ddns.net:1935/vmix/myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdestak.png" group-title="WebTV", TV Destak - WebTV
 https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
 
@@ -385,9 +382,6 @@ https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ockostar.png" group-title="Música", Ocko Star
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/4Fun-TV.png" group-title="Música", 4Fun TV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/Colosal-TV.png" group-title="Música", Colosal TV
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
@@ -1537,43 +1531,43 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rmAm6UE.png" group-title="Animation", Anime TV (360p) [Not 24/7]
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2z8qs2Y" group-title="Sem Categoria", RADIO R&B
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria", RADIO R&B
 https://stream.vagalume.fm/hls/1467745876337223/aac.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2z8qs2Y" group-title="Sem Categoria", RADIO Folk
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria", RADIO Folk
 https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2z8qs2Y" group-title="Sem Categoria", RADIO Gospel Internacional
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria", RADIO Gospel Internacional
 https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2z8qs2Y" group-title="Sem Categoria", RADIO Gospel
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria", RADIO Gospel
 https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2z8qs2Y" group-title="Sem Categoria", RADIO Reggae
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria", RADIO Reggae
 https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2z8qs2Y" group-title="Sem Categoria", RADIO Rock
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria", RADIO Rock
 https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2z8qs2Y" group-title="Sem Categoria", RADIO ForrÃ³
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria", RADIO ForrÃ³
 https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2z8qs2Y" group-title="Sem Categoria", RADIO Pop
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria", RADIO Pop
 https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2z8qs2Y" group-title="Sem Categoria", RADIO Latina
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria", RADIO Latina
 https://stream.vagalume.fm/hls/1478199774246251/aac.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2z8qs2Y" group-title="Sem Categoria", RADIO EletrÃ´nica
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria", RADIO EletrÃ´nica
 https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2z8qs2Y" group-title="Sem Categoria", RADIO Hip-Hop
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria", RADIO Hip-Hop
 https://stream.vagalume.fm/hls/1470155107337444/aac.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2z8qs2Y" group-title="Sem Categoria", RADIO Pop Rock
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria", RADIO Pop Rock
 https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2z8qs2Y" group-title="Sem Categoria", RADIO Funk
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria", RADIO Funk
 https://stream.vagalume.fm/hls/1470154922349875/aac.m3u8
 
 #EXTINF:-1 tvg-logo="group-title="Sem Categoria", RADIO Pagode
