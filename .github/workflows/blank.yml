@@ -212,6 +212,9 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1onemus.png" group-title="Música", 1Mus
 http://hz1.teleport.cc/HLS/HD.m3u8
 
+#EXTINF:-1 tvg-logo="group-title=" group-title="TV aberta", MURILO TV
+https://bit.ly/3kdln0o
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-logo-bile2.png" group-title="Música", Retrô TV
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
