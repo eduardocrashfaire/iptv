@@ -1,0 +1,175 @@
+#####$########IPTV#####PORTUGAL########
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="News", Al Jazeera Documentary (270p) [Geo-blocked]
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News", Al Jazeera English (1080p)
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="News", BBC World News (576p)
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/01/16/Bloomberg_new_4-3_light_background_001_xlrg.png" group-title="Business", Bloomberg TV EMEA Live Event (720p)
+https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
+
+#EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/01/16/Bloomberg_new_4-3_light_background_001_xlrg.png" group-title="Business", Bloomberg TV Europe UHD (2160p)
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/512px-Logo_Canal_11_FPF.svg.png" group-title="Sports", Canal 11 (720p)
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://canal.parlamento.pt/images/ARTV_Logo.png" group-title="Legislative", Canal Parlamento (432p) [Not 24/7]
+https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News", CGTN (576p)
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary", CGTN Documentary (576p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B6sfpDa.png" group-title="Business", CNBC Europe (480p)
+http://ott-cdn.ucom.am/s65/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/512px-CNN_International_logo.svg.png" group-title="News", CNN International Germany (720p)
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News", DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News", Euronews English
+https://euronews.alteox.app/hls/en_stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Euronews Português (576p)
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News", Euronews Portuguese
+https://euronews.alteox.app/hls/pt_stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle", Fashion TV (1080p)
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pAxmRKg.png" group-title="Undefined", Igreja Online (574p) [Not 24/7]
+http://195.22.11.11:1935/igronline/igronline2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sports", Insight TV (1080p)
+https://insighttv-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" group-title="General", KBS World (720p)
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CZViCwB.jpg" group-title="Movies", Kuriakos Cine (1080p) [Not 24/7]
+http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aNVzKYJ.png" group-title="Kids", Kuriakos Kids (1080p)
+http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="Music", Kuriakos Music (1080p)
+http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="Religious", Kuriakos TV (1080p)
+http://195.22.11.11:1935/ktv/ktv1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KMGUuAX.png" group-title="Sports", MavTV Select (720p)
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NTCI3lf.png" group-title="Culture", Metro Globe Network (1080p) [Not 24/7]
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Culture;News", NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://europentv.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="General", NTV Europe (720p) [Not 24/7]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" group-title="General", Porto Canal (360p) [Not 24/7]
+https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports", Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="News", RT en Español (1080p) [Geo-blocked]
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w7GV86i.png" group-title="General", RTP1 (720p) [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T6WUqdn.png" group-title="General", RTP2 (720p) [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ohXJmiR.png" group-title="News", RTP3 (504p) [Not 24/7]
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTP_A%C3%A7ores_%282016%29.svg/512px-RTP_A%C3%A7ores_%282016%29.svg.png" group-title="General", RTP Açores (720p) [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="General", RTP Internacional (504p) [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/RTP_Madeira_2016.png/512px-RTP_Madeira_2016.png" group-title="General", RTP Madeira (504p) [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="Religious", Sobrenatural TV (1080p)
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", STV Noticias (240p) [Not 24/7]
+http://dcunilive36-lh.akamaihd.net/i/dclive_1@668002/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="News", TRT World (720p) [Not 24/7]
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", TV Maná 1 (320p) [Not 24/7]
+http://195.22.11.11:1935/tvmana/tvmana1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", TV Maná 2 (576p) [Not 24/7]
+http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", TV MANA (ENG) (484p)
+http://c2.manasat.com:1935/church-online/ingles3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", TV MANA (ESP) (488p)
+http://c2.manasat.com:1935/iglesia-online/espanhol3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", TV MANA (FR) (484p)
+http://c2.manasat.com:1935/eglise-online/frances3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", TV MANA (RU) (486p)
+http://c2.manasat.com:1935/tserkov-online/russo3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c4DSG2J.png" group-title="Religious", TV Maná Córdoba (576p) [Not 24/7]
+http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", TV MANA MAPUTO (526p) [Not 24/7]
+http://streamspub.manasat.com:1935/tvmz/tvmz2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", TV MANA MAPUTO (576p) [Not 24/7]
+http://csvl03.manasat.com:1935/tvmz/tvmz3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", TV MANA-1 PORTUGAL (1080p) [Not 24/7]
+http://csvl04.manasat.com:1935/tvmana/tvmana3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi.png" group-title="General", TVI (480p)
+https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/08xTtYD.png" group-title="Entertainment", TVI Reality (480p)
+https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ns3WrOQ.png" group-title="General", TVM Internacional (480p) [Not 24/7]
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="News", UN Web TV (540p)
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAZF1cq.jpg" group-title="Weather", WeatherSpy Europe (720p)
+https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="Lifestyle", World Fashion Channel (1080p)
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="Sports", World Poker Tour (1080p) [Not 24/7]
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="General", РТР-Планета (480p)
+http://ott-cdn.ucom.am/s15/index.m3u8
+
+
