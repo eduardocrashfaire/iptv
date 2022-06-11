@@ -28,10 +28,10 @@ https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
 #EXTINF:-1 tvg-logo=https://i.imgur.com/ubeVvAa_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV aberta",A&E FULL FHD
 https://bit.ly/36EkJG8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z9WyhDU_d.webp?maxwidth=640&shape=thumb&fidelity=medium group-title="TV aberta",AXN FULLHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z9WyhDU_d.webp?maxwidth=640&shape=thumb&fidelity=medium group-title="TV aberta",AXN FHD
 http://bit.ly/3jlZMCn
 
-#EXTINF:-1 tvg-logo=https://i.imgur.com/oflUVRg_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV aberta",GLOBO SP SD
+#EXTINF:-1 tvg-logo=https://i.imgur.com/oflUVRg_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV aberta",GLOBO SP 
 https://bit.ly/38BShFO
 
 #EXTINF:-1 tvg-logo="group-title=" group-title="TV aberta", SO NOVELAS
