@@ -31,7 +31,8 @@ https://bit.ly/36EkJG8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z9WyhDU_d.webp?maxwidth=640&shape=thumb&fidelity=medium group-title="TV aberta",AXN FHD
 http://bit.ly/3jlZMCn
 
-#EXTINF:-1 tvg-logo="group-title=" group-title="TV aberta",
+#EXTINF:-1 tvg-logo="group-title=" group-title="TV aberta",WEB RADIO NOVA PLAY
+https://bit.ly/3aYyRvn
 
 #EXTINF:-1 tvg-logo="group-title=" group-title="TV aberta", SO NOVELAS
 https://bit.ly/3yvZFwZ
@@ -56,7 +57,7 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIA
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Canal 10 (720p)
 https://edge3-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="filme filmes", cine livre 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="filme filmes", WEBTV NOVA PLAY
 https://bit.ly/3JoR5CP
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Cidade Verde - (PI)
