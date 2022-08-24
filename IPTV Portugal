@@ -31,7 +31,16 @@
       "ProxyIP": "", 
       "ProxyPort": "443", 
       "Info": "Tlsws"
-  
+   },
+    {  
+    "Name":"🔵TIM 1",
+         "FLAG":"tim",
+         "Payload":"GET wss://cdn.c6bank.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+         "SNI":"cdn.c6bank.com.br",
+         "TlsIP":"104.16.236.16",
+         "ProxyIP":"",
+         "ProxyPort":"443",
+         "Info":"Tlsws"
  
     }
   ]
